@@ -3,8 +3,6 @@
 
 <h1 align="center" id="title">Facebook Home Design Clone</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
 <h2>Project Screenshots:</h2>
 
 <img src="https://github.com/jonycmtt/facebookclone/blob/main/fbdemo3.png?raw=true" alt="project-screenshot" width="1000" height="400/">
